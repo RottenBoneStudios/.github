@@ -27,6 +27,7 @@
 |----------------|-------------------------------------------|-------------------|
 | `FurniturePlus`| Modificación para crear muebles en minecraft | Java           |
 | `RoleplayMessages`| Modificación para Roleplay Servers     | Java              |
+| `NetworkSecurity`| Modificación para prevenir VPN, Proxy y banear intrusos     | Java              |
 
 ---
 
@@ -36,6 +37,8 @@
 |--------------------|---------------------------------------------|-------------------------|
 | `SuperNova Network` | Servidor Roleplay, RPG y Minijuegos        | Spigot, Paper           |
 | `ProLatin Network`  | Servidor Roleplay, RPG, Parkour y ArcadeGames | Spigot, Paper        |
+| `GatitosWorld`  | Servidor Roleplay, RPG, Parkour y Zombie | Spigot, Paper        |
+| `YuCraft`  | Servidor Roleplay | Spigot, Paper        |
 
 ---
 
@@ -63,5 +66,5 @@
 ---
 
 <p align="center">
-  Hecho con ❤️ por <strong><RottenBone Studio></strong>
+  Hecho con ❤️ por RottenBone Studio
 </p>
